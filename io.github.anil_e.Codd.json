@@ -26,8 +26,8 @@
         {
           "type": "git",
           "url": "https://github.com/anil-e/codd.git",
-          "tag": "v0.9.1",
-          "commit": "783aef74103a1a356e8a0069dc016fe7e720806f"
+          "tag": "v0.10.0",
+          "commit": "c4817634318ff8293fc5ca3ee9931b034f06e081"
         },
         "cargo-sources.json"
       ],

@@ -11,7 +11,8 @@
     "--socket=fallback-x11",
     "--device=dri",
     "--socket=wayland",
-    "--socket=ssh-auth"
+    "--socket=ssh-auth",
+    "--filesystem=~/.pgpass:ro"
   ],
   "build-options": {
     "append-path": "/usr/lib/sdk/rust-stable/bin",
@@ -27,8 +28,8 @@
         {
           "type": "git",
           "url": "https://github.com/anil-e/codd.git",
-          "tag": "v0.13.1",
-          "commit": "10668ebf90e5ad73353b590ec6c962678296b118"
+          "tag": "v0.14.0",
+          "commit": "26020ae44ab2a58c0a4dcf8dec3c0058861715a5"
         },
         "cargo-sources.json"
       ],

@@ -1,7 +1,7 @@
 {
   "id": "io.github.anil_e.Codd",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
   "command": "codd",
@@ -28,8 +28,8 @@
         {
           "type": "git",
           "url": "https://github.com/anil-e/codd.git",
-          "tag": "v0.16.0",
-          "commit": "715e769a8cc39820d5429d477c3baa42a695f8a3"
+          "tag": "v0.16.1",
+          "commit": "87467864afc48ef88100f1b7326e203d9780b1ca"
         },
         "cargo-sources.json"
       ],
